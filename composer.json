@@ -21,7 +21,7 @@
         "php": ">=7.0",
         "pragmarx/ia-collection": ">=5.5.33",
         "pragmarx/ia-str": ">=5.5.33",
-        "pragmarx/ia-arr": ">=5.5.33"
+        "pixelplant/ia-arr": ">=5.5.33"
     },
     "require-dev": {
         "mockery/mockery": "~1.0",
