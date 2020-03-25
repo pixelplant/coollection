@@ -21,12 +21,16 @@
         {
             "type": "vcs",
             "url": "https://github.com/pixelplant/ia-arr.git"
+        },
+		{
+            "type": "vcs",
+            "url": "https://github.com/pixelplant/ia-collection.git"
         }
     ],
     "require": {
         "php": ">=7.0",
-        "pragmarx/ia-collection": ">=5.5.33",
-        "pragmarx/ia-str": ">=5.5.33",
+        "pixelplant/ia-collection": ">=6.0",
+        "pragmarx/ia-str": ">=6.0",
         "pixelplant/ia-arr": "dev-master"
     },
     "require-dev": {
