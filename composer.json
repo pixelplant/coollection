@@ -1,5 +1,5 @@
 {
-    "name": "pragmarx/coollection",
+    "name": "pixelplant/coollection",
     "type": "library",
     "description": "Laravel Illuminate collection with objectified properties",
     "keywords": [
@@ -15,6 +15,12 @@
             "email": "acr@antoniocarlosribeiro.com",
             "homepage": "https://antoniocarlosribeiro.com",
             "role": "Creator"
+        }
+    ],
+	"repositories":[
+        {
+            "type": "vcs",
+            "url": "https://github.com/pixelplant/ia-arr.git"
         }
     ],
     "require": {
